@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://epursele.github.io/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/app/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/assets/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/css/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/data/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/includes/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/item/sitemap.epursele.gz
+Sitemap: https://epursele.github.io/src/sitemap.epursele.gz
